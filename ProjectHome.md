@@ -1,0 +1,1 @@
+This wordpress plugin will create multi-column capability for your content.
